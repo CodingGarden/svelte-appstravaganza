@@ -1,6 +1,8 @@
 <script>
 	import TodoForm from './TodoForm.svelte';
-	let todos = localStorage.getItem('todos') ? JSON.parse(localStorage.getItem('todos')) : [];
+	let todos = localStorage.getItem('todos')
+		? JSON.parse(localStorage.getItem('todos'))
+		: [];
 
 	function addTodo(todo) {
 		todos.push({
