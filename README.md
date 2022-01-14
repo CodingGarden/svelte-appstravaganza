@@ -9,15 +9,15 @@
   * [x] Up Button For Player 2
   * [x] Down Button For Player 2
 * Todo App
-  * [ ] Generate Simple App
-  * [ ] Add pico.css
-  * [ ] Form to add todo
-  * [ ] Add todo to list when form submitted
-  * [ ] Show todos in a list on page
-  * [ ] Click a todo to mark it as done
-  * [ ] Delete button for todo
-  * [ ] Watch todos for changes and save to localStorage
-  * [ ] Load todos from localStorage on page load
+  * [x] Generate Simple App
+  * [x] Add pico.css
+  * [x] Form to add todo
+  * [x] Add todo to list when form submitted
+  * [x] Show todos in a list on page
+  * [x] Click a todo to mark it as done
+  * [x] Delete button for todo
+  * [x] Watch todos for changes and save to localStorage
+  * [x] Load todos from localStorage on page load
 * Reddit Client
   * [ ] Generate App with Router
   * [ ] Add pico.css
