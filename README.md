@@ -2,12 +2,12 @@
 
 * What is Svelte?
 * Player Score Counter
-  * [ ] Generate Simple App
-  * [ ] Add pico.css
-  * [ ] Up Button For Player 1
-  * [ ] Down Button For Player 1
-  * [ ] Up Button For Player 2
-  * [ ] Down Button For Player 2
+  * [x] Generate Simple App
+  * [x] Add pico.css
+  * [x] Up Button For Player 1
+  * [x] Down Button For Player 1
+  * [x] Up Button For Player 2
+  * [x] Down Button For Player 2
 * Todo App
   * [ ] Generate Simple App
   * [ ] Add pico.css
